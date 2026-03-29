@@ -1,2 +1,2 @@
 # thoughts.horizon
-Practice repository 
+Think - Thrive - Transcend
